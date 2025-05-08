@@ -1,5 +1,7 @@
 # Data-Analyst-Job-Postings---Python
 
+This individual project was completed for my Master of Science in Computer Science program, as part of the course “Data Analysis, Decision Making, and Visualization.”
+
 Project Objective:
 The project objective is to conduct a comprehensive analysis and visualization of a dataset comprising Data Analyst job 
 postings, sourced from Kaggle. This dataset serves as a valuable resource, offering a wide range of information about job 
