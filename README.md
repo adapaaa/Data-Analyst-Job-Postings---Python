@@ -42,7 +42,3 @@ Project Purpose:
 To derive key insights visually from Data Analyst Job Postings Dataset, such as, understanding job market trends, skills and 
 qualifications, salary insights, demographic analysis, comparison between different job role names within Data Analysis,
 job posting sources, and predictive modeling using a machine learning model.
-
-References:
-https://github.com/pranavsai-98/Data-Analyst-Job-EDA/tree/master
-https://github.com/MohamedMuneerM/naukri-data-analyst-job-posting-analysis#naukri-data-analyst-job-postinganalysis
